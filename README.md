@@ -5,6 +5,7 @@
 - ⚡ Fun facts: I enjoy gaming, learning new skills and aviation.
 
 **Languages:** Python, JavaScript, TypeScript, C# <br />
+**Frameworks:** React, Next, Django, BeautfulSoup <br />
 **Databases:** SQL, Mongo.db, PostgreSQL <br />
-**Software and Tools:** Salesforce, Jira, Git <br />
+**Software and Tools:** Salesforce, Jira, Git, Terraform <br />
 
