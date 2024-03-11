@@ -1,4 +1,4 @@
-### Hi there, Im Tristen 👋
+### Hi there, I'm Tristen 👋
 
 - 🏙  I'm located in Eastern Tennessee
 - 🔭 I’m currently working as a **Support Engineer** at PandoLogic (A Veritone Company)
